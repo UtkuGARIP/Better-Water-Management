@@ -1,7 +1,7 @@
-Key, English, German, Russian
-GAMEPLAY_MetalPotDescription, "Can be used for cooking. Holds up to 3 l (102 oz).", "Kann zum Kochen verwendet werden. Fasst bis zu 3 l.", "Можно использоваться для приготовления пищи. Вмещает до 3 л."
-GAMEPLAY_MetalPanDescription, "Can be used for cooking. Holds up to 1 l (34 oz).", "Kann zum Kochen verwendet werden. Fasst bis zu 1 l.", "Можно использоваться для приготовления пищи. Вмещает до 1 л."
-GAMEPLAY_Empty, "Empty", "Leer", "Пустая емкость"
-GAMEPLAY_Lost, "Lost", "Verloren", "Потеряно"
-GAMEPLAY_RequiresCookware, "Requires Cookware", "Kochgeschirr benötigt", "Требуется посуда"
-GAMEPLAY_NoCapacityAvailable, "No bottles with remaining capacity available", "Keine Flaschen mit verbleibender Kapazität vorhanden", "Отсутствует емкость для воды"
+Key,English,Türkçe,German,Russian
+GAMEPLAY_MetalPotDescription,Can be used for cooking. Holds up to 3 l (102 oz).,Pişirme için kullanılabilir. 3 litre (102 oz) kadar tutun.,Kann zum Kochen verwendet werden. Fasst bis zu 3 l.,ĞœĞ¾Ğ¶Ğ½Ğ¾ Ğ¸ÑĞ¿Ğ¾Ğ»ÑŒĞ·Ğ¾Ğ²Ğ°Ñ‚ÑŒÑÑ Ğ´Ğ»Ñ Ğ¿Ñ€Ğ¸Ğ³Ğ¾Ñ‚Ğ¾Ğ²Ğ»ĞµĞ½Ğ¸Ñ Ğ¿Ğ¸Ñ‰Ğ¸. Ğ’Ğ¼ĞµÑ‰Ğ°ĞµÑ‚ Ğ´Ğ¾ 3 Ğ».
+GAMEPLAY_MetalPanDescription,Can be used for cooking. Holds up to 1 l (34 oz).,Pişirme için kullanılabilir. 1 litre (34 oz) kadar tutun.,Kann zum Kochen verwendet werden. Fasst bis zu 1 l.,ĞœĞ¾Ğ¶Ğ½Ğ¾ Ğ¸ÑĞ¿Ğ¾Ğ»ÑŒĞ·Ğ¾Ğ²Ğ°Ñ‚ÑŒÑÑ Ğ´Ğ»Ñ Ğ¿Ñ€Ğ¸Ğ³Ğ¾Ñ‚Ğ¾Ğ²Ğ»ĞµĞ½Ğ¸Ñ Ğ¿Ğ¸Ñ‰Ğ¸. Ğ’Ğ¼ĞµÑ‰Ğ°ĞµÑ‚ Ğ´Ğ¾ 1 Ğ».
+GAMEPLAY_Empty,Empty,Boş,Leer,ĞŸÑƒÑÑ‚Ğ°Ñ ĞµĞ¼ĞºĞ¾ÑÑ‚ÑŒ
+GAMEPLAY_Lost,Lost,Kayıp,Verloren,ĞŸĞ¾Ñ‚ĞµÑ€ÑĞ½Ğ¾
+GAMEPLAY_RequiresCookware,Requires Cookware,Tencere seti gerekir,Kochgeschirr benÃ¶tigt,Ğ¢Ñ€ĞµĞ±ÑƒĞµÑ‚ÑÑ Ğ¿Ğ¾ÑÑƒĞ´Ğ°
+GAMEPLAY_NoCapacityAvailable,No bottles with remaining capacity available,Boş şişe kalmadı veya yeterli değil,Keine Flaschen mit verbleibender KapazitÃ¤t vorhanden,ĞÑ‚ÑÑƒÑ‚ÑÑ‚Ğ²ÑƒĞµÑ‚ ĞµĞ¼ĞºĞ¾ÑÑ‚ÑŒ Ğ´Ğ»Ñ Ğ²Ğ¾Ğ´Ñ‹
